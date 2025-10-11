@@ -7,7 +7,7 @@ Likes Technology and wants to figure out how stuff works.
 
 Mainly works on Minecraft related stuff.
 
-### Programs:
+### Programs & Tools:
 Visual Studio Code,
 Python 3.13,
 Audacity
