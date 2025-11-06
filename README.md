@@ -10,4 +10,5 @@ Mainly works on Minecraft related stuff.
 ### Programs & Tools:
 Visual Studio Code,
 Python 3.13,
-Audacity
+Audacity,
+Blender
