@@ -11,4 +11,5 @@ Mainly works on Minecraft related stuff.
 Visual Studio Code,
 Python 3.13,
 Audacity,
-Blender
+Blockbench,
+OBS
